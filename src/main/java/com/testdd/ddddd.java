@@ -3,5 +3,6 @@ package com.testdd;
 public class ddddd {
 	
 	String test="Kkkkk";
-	String testd="jackbauer3255551";
+	String testd="jackbauer55551";
+	String tterrerer="kkkkdrerer";
 }
